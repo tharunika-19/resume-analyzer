@@ -26,3 +26,6 @@ to help job seekers optimize their resumes.
 
 ## 📸 Demo
 <img width="1867" height="932" alt="image" src="https://github.com/user-attachments/assets/ac332a81-61eb-41eb-8234-3aab15aa09ea" />
+
+## 🌐 Live Demo
+https://resume-analyzer-by-tara.streamlit.app
