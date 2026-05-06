@@ -207,7 +207,6 @@ if analyze_btn:
 # Footer
 st.markdown("""
     <div class="footer">
-        Built with ❤️ by Tharunika &nbsp;|&nbsp; Powered by Groq AI &nbsp;|&nbsp; 
-        <a href="https://github.com/tharunika-19/resume-analyzer" style="color: #6C63FF;">GitHub</a>
+         Powered by Groq AI &nbsp;|&nbsp; 
     </div>
 """, unsafe_allow_html=True)
