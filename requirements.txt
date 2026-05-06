@@ -1,4 +1,4 @@
-anthropic
 streamlit
+groq
 pymupdf
 python-dotenv
